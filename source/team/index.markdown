@@ -9,16 +9,15 @@ footer: true
 
 The Heads
 ---------
-Devin Blitzer
-Jordan Marsaw
+- Devin Blitzer
+- [Jordan Marsaw](https://github.com/SGZorrun)
 
-Root
-----
-Jordan Marsaw
-leroux
+Ops
+---
+- [leroux](https://github.com/leroux)
 
 Devs
 ----
-Andrew Mata
+- [Andrew Mata](https://github.com/andrewmata24)
 
 *Note: This list is incomplete at this time.*
