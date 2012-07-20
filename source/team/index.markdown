@@ -7,9 +7,9 @@ sharing: true
 footer: true
 ---
 
-The Heads
+VPs
 ---------
-- Anthony Cole (VP of Operations)
+- Anthony Cole (VP of Business Operations)
 - Dan Rascoe (VP of Marketing)
 - Devin Blitzer (VP of Design)
 - Jack Reid (VP of Finance)
