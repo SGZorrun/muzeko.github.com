@@ -9,15 +9,19 @@ footer: true
 
 The Heads
 ---------
-- Devin Blitzer
-- [Jordan Marsaw](https://github.com/SGZorrun)
-
-Ops
----
-- [leroux](https://github.com/leroux)
+- Anthony Cole (VP of Operations)
+- Dan Rascoe (VP of Marketing)
+- Devin Blitzer (VP of Design)
+- Jack Reid (VP of Finance)
+- Jarod Becker (VP of Business)
+- [Jordan Marsaw](https://github.com/SGZorrun) (VP of Engineering)
 
 Devs
 ----
-- [Andrew Mata](https://github.com/andrewmata24)
+- [Andrew Mata](https://github.com/andrewmata24) (Lead)
+
+Ops
+---
+- [leroux](https://github.com/leroux) (Lead)
 
 *Note: This list is incomplete at this time.*
