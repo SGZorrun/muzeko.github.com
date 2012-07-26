@@ -18,8 +18,8 @@ VPs
 
 Developers
 ----------
-- [Andrew Mata](https://github.com/andrewmata24)
 - [Agro](https://github.com/AgroTemp)
+- [Andrew Mata](https://github.com/andrewmata24)
 
 Operations
 ----------
