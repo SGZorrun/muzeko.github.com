@@ -10,6 +10,7 @@ footer: true
 VPs
 ---
 - Anthony Cole (Business Operations)
+- [Brendan Mc.](https://github.com/Bren2010) (Web Technology)
 - Dan Rascoe (Marketing)
 - Devin Blitzer (Design)
 - Jack Reid (Finance)
